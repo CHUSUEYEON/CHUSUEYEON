@@ -20,9 +20,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📞Connects
-![Velog](https://img.shields.io/badge/velog-00D0B1?style=for-the-badge&logo=velog&logoColor=white) &nbsp; https://velog.io/@rmffkfk226 </br>
-![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white) &nbsp; rmffkfk226@naver.com
-
+![Velog](https://img.shields.io/badge/velog-00D0B1?style=for-the-badge&logo=velog&logoColor=white) &nbsp;&nbsp; https://velog.io/@rmffkfk226 </br>
+![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white) &nbsp;&nbsp; rmffkfk226@naver.com
+</br></br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHUSUEYEON&layout=compact)
 
