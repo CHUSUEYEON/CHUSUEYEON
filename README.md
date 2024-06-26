@@ -23,8 +23,7 @@
 </br>
   
 ### 📞Contact
-![Velog](https://img.shields.io/badge/velog-00D0B1?style=for-the-badge&logo=velog&logoColor=white) 
-![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+![Velog](https://img.shields.io/badge/velog-00D0B1?style=for-the-badge&logo=velog&logoColor=white)![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 
 
 
