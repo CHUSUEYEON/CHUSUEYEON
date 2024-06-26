@@ -19,14 +19,14 @@
 </br>
   
 ### 🛠️Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </br>
   
 ### 📞Contact
-![Velog](https://img.shields.io/badge/velog-00D0B1?style=for-the-badge&logo=velog&logoColor=white) &nbsp;  https://velog.io/@rmffkfk226 </br>
-![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; rmffkfk226@naver.com </br>
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; [CHU's Portfolio
-](https://sleepy-receipt-c22.notion.site/a857ad8e675645f39429d1820b6c3b92?pvs=4)
+![Velog](https://img.shields.io/badge/velog-00D0B1?style=for-the-badge&logo=velog&logoColor=white) 
+![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+
+
 
 </br></br></br>
 
