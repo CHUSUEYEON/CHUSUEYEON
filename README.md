@@ -1,38 +1,65 @@
-<div align = center>
+<div>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHU'S%20GITHUB&desc=Make%20happen.%20Shock%20everyone!&descAlignY=80&fontSize=70)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=200&section=header&text=CHU'S%20GITHUB&fontAlignY=45&align=center" />
+</p>
 
   
-## Welcome to Chu's Github 👋
+## Make happen, Shock everyone.
+
+### 🎓 Education
+**✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** - Java Track (2025.01 ~ 2025.06)  
+**✔️ 청년취업사관학교 새싹 1st** - Full Stack Development (2024.01 ~ 2024.06)
 </br>
 
-안녕하세요? 끝까지 책임지는 개발자, 추수연입니다.
+
+💻 Self-taught developer passionate about clean code  
+🌱 Always learning something new
   
-### ✨Tech Stack✨
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+### ✨ Skills
+   <img
+    src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-square&logo=openjdk&logoColor=black"
+  />
+  <img
+    src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-square&logo=javascript&logoColor=white"
+  />
+  </br>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-square&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-square&logo=AWS%20EC2&logoColor=white">
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-square&logo=AWS%20S3&logoColor=white">
+<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-square&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-square&logo=git&logoColor=white">
+  </br>
+    <img
+    src="https://img.shields.io/badge/React-61DAFB?style=for-the-square&logo=react&logoColor=black"
+  />
+  <img
+    src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-square&logo=vuedotjs&logoColor=black"
+  />
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+##### ☑️ Studying
+  <img
+    src="https://img.shields.io/badge/Typescript-blue?style=for-the-square&logo=typescript&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-square&logo=nestjs&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/docker-2496ED?style=for-the-square&logo=docker&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-square&logo=postgresql&logoColor=white"
+  />
 
 </br>
 
-### 📖Studying
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-</br>
-  
-### 🛠️Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</br>
-  
-### 📞Contact
-![Velog](https://img.shields.io/badge/velog-00D0B1?style=for-the-badge&logo=velog&logoColor=white)![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-
-
-
-</br></br></br>
-
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHUSUEYEON&layout=compact)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHUSUEYEON&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUSUEYEON&layout=donut&theme=transparent"/>
+</div>
 
 </div>
 <!--
