@@ -9,14 +9,16 @@
   <img src="https://github.com/user-attachments/assets/d01bbc83-18ff-489a-a577-852ed80eee9b" />
 </div>
 
+</br>
+
+💻 Self-taught developer passionate about clean code  
+🌱 Always learning something new
+
+
 ### 🎓 Education
 **✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** - Java Track (2025.01 ~ 2025.06)  
 **✔️ 청년취업사관학교 새싹 1st** - Full Stack Development (2024.01 ~ 2024.06)
 </br>
-
-
-💻 Self-taught developer passionate about clean code  
-🌱 Always learning something new
   
 ### ✨ Skills
    <img
