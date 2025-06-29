@@ -3,9 +3,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=200&section=header&text=CHU'S%20GITHUB&fontAlignY=45&align=center" />
 </p>
-
   
 ## Make happen, Shock everyone.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d01bbc83-18ff-489a-a577-852ed80eee9b" />
+</div>
 
 ### 🎓 Education
 **✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** - Java Track (2025.01 ~ 2025.06)  
