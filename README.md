@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=200&section=header&text=CHU'S%20GITHUB&fontAlignY=45&align=center" />
 </p>
   
-## Make happen, Shock everyone.
+## Make it happen, Shock everyone.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d01bbc83-18ff-489a-a577-852ed80eee9b" />
 </div>
@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-square&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-square&logo=AWS%20EC2&logoColor=white">
 <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-square&logo=AWS%20S3&logoColor=white">
 <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-square&logo=amazonrds&logoColor=white">
@@ -50,9 +51,6 @@
   />
   <img
     src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-square&logo=nestjs&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/docker-2496ED?style=for-the-square&logo=docker&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-square&logo=postgresql&logoColor=white"
