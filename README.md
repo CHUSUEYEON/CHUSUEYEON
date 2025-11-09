@@ -17,7 +17,7 @@
 
 ### 🎓 Education
 **✔️ SSAFY (Samsung Software AI Academy For Youth) 13th** - Java Track (2025.01 ~ 2025.06)  
-**✔️ 청년취업사관학교 새싹 1st** - Full Stack Development (2024.01 ~ 2024.06)
+**✔️ SeSAC(Seoul Software Academy) 1st** - Full Stack Development (2024.01 ~ 2024.06)
 </br>
   
 ### ✨ Skills
