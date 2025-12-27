@@ -56,12 +56,12 @@
     src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-square&logo=postgresql&logoColor=white"
   />
 
-</br>
+<!-- </br> -->
 
-<div>
+<!-- <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHUSUEYEON&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUSUEYEON&layout=donut&theme=transparent"/>
-</div>
+</div> -->
 </br>
 
 ![](https://ghchart.rshah.org/409ba5/CHUSUEYEON)
